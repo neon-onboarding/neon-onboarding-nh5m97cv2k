@@ -1,1 +1,1 @@
-export const PAGE_TITLE = "Tadaaa!";
+export const PAGE_TITLE = "couocuoucou";
